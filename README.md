@@ -45,13 +45,13 @@ The model was evaluated on both clean and noisy test samples. Noise was introduc
 ### 🔹 Confusion Matrix (Clean Test Data)
 
 <p align="center">
-  <img src="confusion_matrix.png" alt="Confusion Matrix" width="500"/>
+  <img src="confusion_matrix.png" alt="Confusion Matrix" width="400"/>
 </p>
 
 ### 🔹 Accuracy vs. SNR
 
 <p align="center">
-  <img src="accuracy_vs_snr.png" alt="Accuracy vs SNR Plot" width="600"/>
+  <img src="accuracy_vs_snr.png" alt="Accuracy vs SNR Plot" width="400"/>
 </p>
 
 As the SNR decreases, the model’s classification accuracy gradually drops, but the decline is relatively smooth — indicating some robustness to noise. Further improvement techniques were applied and discussed in the report.
